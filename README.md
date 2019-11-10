@@ -9,9 +9,9 @@
 # $pkg update && pkg upgrade
 # $pkg install git
 # $pkg install python2
-$ $pip2 install mechanize requests bs4
+# $pip2 install mechanize requests bs4
 # $git clone https://github.com/MrBarBar05/AntiRM
 # $cd AntiRM
 # $python2 Anti-rm-rf.py
 
-# Note: Tools Ini Bisa Di Aktifkan Juga Bisa Di Nonaktifkan
+# Note: Tools Ini Bisa Di Aktifkan Dan Juga Bisa Di Nonaktifkan
